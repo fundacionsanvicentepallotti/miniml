@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# Site configuration
-# 1. Files excluded from Jekyll builds
-# 2. Installed Gems
-# 3. Gem settings
-# 4. Jekyll settings
-# 5. Collections
-# 6. Jekyll collections settings
-# 7. Site settings
-# 8. Site navigation
+# Configuración del sitio
+# 1. Archivos excluidos de las compilaciones de Jekyll
+# 2. Gemas instaladas
+# 3. Configuración de gemas
+# 4. Configuración de Jekyll
+# 5. Colecciones
+# 6. Configuración de las colecciones de Jekyll
+# 7. Configuración del sitio
+# 8. Navegación del sitio
 
-# 1. Files excluded from Jekyll builds
+# 1. Archivos excluidos de las compilaciones de Jekyll
 exclude:
 - README.md
 - CODE_OF_CONDUCT.md
@@ -60,9 +60,9 @@ timezone: America/Los_Angeles # https://en.wikipedia.org/wiki/List_of_tz_databas
 # Not using collections at this time
 
 # 7. Site settings
-name: miniml
-title: MINIML
-author: Isaac Horton
+name: Napierala
+title: SVP
+author: Edu
 email: st4rdusdt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Design and software solutions for business. Ecommerce expert. Usability consultant.
