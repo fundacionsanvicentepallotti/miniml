@@ -5,8 +5,8 @@ main:
     url: https://miniml.cc/
   - title: "Installation"
     url: /installation
-  - title: "Documentation"
-    url: /documentation
+  - title: "Post"
+    url: /post
 mobile:
   - title: "Block Library"
     url: https://miniml.cc/
